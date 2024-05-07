@@ -22,12 +22,12 @@
             height: auto;
         }
     </style>
-</head>
+<head>
 <body>
     <div class="container">
         <h1>Welcome to Tesla</h1>
         <p>Explore the innovation and technology of Tesla.</p>
         <img src="tesla.jpg" alt="Tesla Car">
-    </div>
-</body>
-</html>
+    <div>
+<body>
+<html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Tesla Cars</title>
+    <style>
+        /* CSS styles */
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>About Tesla Cars</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="container">
+    <h2>Tesla's Electric Vehicle Revolution</h2>
+    <p>
+        Tesla's electric vehicles represent a revolution in the automotive industry. With their cutting-edge technology, exceptional performance, and commitment to sustainability, Tesla cars have redefined what it means to drive an electric vehicle.
+    </p>
+    <p>
+        From the sleek and stylish Model S to the versatile Model Y, Tesla offers a range of electric vehicles to suit different preferences and lifestyles. With features such as Autopilot, over-the-air software updates, and long-range batteries, Tesla continues to push the boundaries of innovation.
+    </p>
+    <p>
+        Whether you're interested in zero-emission driving, cutting-edge technology, or simply want to experience the thrill of electric acceleration, Tesla cars offer a driving experience like no other.
+    </p>
+</div>
+
+</body>
+</html>

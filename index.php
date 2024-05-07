@@ -31,6 +31,7 @@
 <body>
     <div class="container">
         <h1>Tesla Motors</h1>
+        <img src="tesla.jpg" alt="Tesla Car">
         <p>Tesla, Inc. is an American electric vehicle and clean energy company. It was founded in 2003 by Martin Eberhard and Marc Tarpenning, and is named after Serbian-American inventor Nikola Tesla. Tesla's current CEO is Elon Musk.</p>
         <h2>Latest Tesla Models</h2>
         <h3>Tesla Model S</h3>
